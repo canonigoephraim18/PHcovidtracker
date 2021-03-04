@@ -1,0 +1,56 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+#container {
+    height: 850px;
+    flex: 40%;
+    
+}
+
+.pieChartCon{
+    flex: 60%;
+}
+
+*{
+    background-color: 	#101010;
+}
+
+
+#containerPie{
+    height: 350px;
+}
+
+.total{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.totaldetails{
+    color: white;
+    padding-top: 20px;
+    margin-left: 20px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.bar{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#containerBar1{
+    height: 350px;
+    width: 50%;
+    padding-left: 30px;
+}
+
+#containerBar2{
+    height: 350px;
+    width: 45%;
+    padding-left: 10px;
+}
+
+
